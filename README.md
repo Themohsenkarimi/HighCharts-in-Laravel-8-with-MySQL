@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/mohsenkarimi-mk/HighCharts-in-Laravel-8-with-MySQL/master/public/poster.png" width="1000">
+    <img src="https://raw.githubusercontent.com/mohsenkarimi-mk/HighCharts-in-Laravel-8-with-MySQL/main/public/poster.png" width="1000">
     </a>
 </p>
 
