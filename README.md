@@ -4,13 +4,16 @@
     </a>
 </p> -->
 
+## Highcharts
+Highcharts is a js library, this library through we can use bar chart, line chart, area chart, column chart etc.
+Highcharts is an open-source chart library.
+
+
 <p align="center">
     <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/mohsenkarimi-mk/HighCharts-in-Laravel-8-with-MySQL/main/public/poster.png" width="1000">
     </a>
 </p>
-
-
 
 
 
