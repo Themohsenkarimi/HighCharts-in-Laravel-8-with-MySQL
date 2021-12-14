@@ -1,0 +1,5 @@
+1- install laravel
+2- setup database highcharts
+3- php artisan tinker
+  - User::factory()->count(100)->create()
+4-
